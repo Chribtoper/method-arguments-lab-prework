@@ -1,4 +1,4 @@
-spec_helper
+
 
 def introduction(name)
   puts "Hi, my name is #{name}.\n"
